@@ -15,7 +15,7 @@
      - SCK:  Pin 13
      - CS:   Pin 10 
  - Digital:
-   - **DHT22**: Humidity (Pin 5)
+   - **DHT22**: Humidity (Pin 5). 10KΩ resistor between the Data pin and the VCC pin.
 
 I made a simple PCB, but has some bugs. The I2C_1 can't be used because it touch the Arduino UNO USB.
 The PCB has free I2C and digital ports for future upgrades (wind velocity sensor, rain sensor, etc).
