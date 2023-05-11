@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ArduinoMeteo
+*Date=23:24:27
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;73.1312;-27.9242;-90;Bottom;TXT1
+2;;THT;53.102;-41.5054;-180;Bottom;Dig 2
+3;10k;THT;50.562;-51.6654;0;Bottom;R1
+4;;THT;12.462;-51.6654;-90;Bottom;ON/OFF
+5;;;2.28901;-3.40359;0;Bottom;Hole4
+6;;THT;17.542;-42.7754;-180;Bottom;I2C_2
+7;;;51.0798;-25.1331;-180;Bottom;DHT22
+8;;;70.8691;-3.40349;0;Bottom;Hole1
+9;;THT;27.702;-42.7754;-180;Bottom;I2C_3
+10;;THT;7.38202;-42.7754;-180;Bottom;I2C_1
+11;100nF;100 mil [THT, multilayer];21.3391;-51.6635;0;Bottom;C1
+12;;THT;37.862;-42.7754;-180;Bottom;I2C_4
+13;;;36.5806;-32.5458;0;Bottom;Arduino UNO
+14;;;2.2891;-61.8235;0;Bottom;Hole3
+15;;;70.8691;-61.8235;0;Bottom;Hole2
+16;;THT;45.482;-41.5054;-180;Bottom;Dig 1

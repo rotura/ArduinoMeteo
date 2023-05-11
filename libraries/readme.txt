@@ -1,0 +1,1 @@
+Put this folders in "My Documents\Arduino\libraries" to use in Arduino IDE
